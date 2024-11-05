@@ -31,7 +31,7 @@ div>nav>ul>li{
     font-size: 1.5rem;
     font-family: monospace;
 }
-@media () {
-    
-}
+
+@media (mini-width: 480px) and (max-width: 1600px){
+body: background: dimgrey;}
 /*Styling end*/
