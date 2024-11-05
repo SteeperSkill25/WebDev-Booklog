@@ -33,5 +33,7 @@ div>nav>ul>li{
 }
 
 @media (mini-width: 480px) and (max-width: 1600px){
-body: background: dimgrey;}
+body: background: dimgrey;
+  }
+}
 /*Styling end*/
