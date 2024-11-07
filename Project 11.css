@@ -9,7 +9,13 @@ h3{
     font-family: "Monotype Corsiva", serif;
 }
 img{
-   width: 500px}
+   width: 500px
+}
+
+div{width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
 .text{
     font-size: larger;
     color: crimson ;
