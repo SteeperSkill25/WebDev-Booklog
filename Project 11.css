@@ -1,8 +1,9 @@
 /*Styling start*/
 body{
     align-content: center;
-    text-align: center;
+    text-align: center; 
     background: deepskyblue;
+
 }
 h3{
     font-family: "Monotype Corsiva", serif;
@@ -32,8 +33,8 @@ div>nav>ul>li{
     font-family: monospace;
 }
 
-@media (mini-width: 480px) and (max-width: 1600px){
-    body{font size: 10px;
-    
+@media (min-width: 200px) and (max-width: 1600px){
+    body{content: inherit;
+}
 }
 /*Styling end*/
