@@ -39,8 +39,4 @@ div>nav>ul>li{
     font-family: monospace;
 }
 
-@media (min-width: 200px) and (max-width: 1600px){
-    body{content: inherit;
-}
-}
 /*Styling end*/
