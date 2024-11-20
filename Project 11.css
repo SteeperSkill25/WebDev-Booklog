@@ -1,14 +1,22 @@
 /*Styling start*/
 body{
     align-content: center;
-    text-align: center;
+    text-align: center; 
     background: deepskyblue;
+
 }
-h3{
+h1,h2{
     font-family: "Monotype Corsiva", serif;
+    color: white;
 }
 img{
-   width: 500px}
+   width: 500px
+}
+
+div{width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
 .text{
     font-size: larger;
     color: crimson ;
@@ -20,38 +28,15 @@ img{
 }
 
 .nav-bar{
-    border: solid mediumslateblue;
+    border: 5px solid mediumslateblue;
+    width: auto;
+    background: white;
 }
-
-div>nav>ul>li {
-    text-decoration: none;
+li{
     list-style: none;
     display: inline;
-    padding: 50px;
-    font-size: 1.5rem;
-    font-family: monospace;
+    padding: 10px;
+    font-family: "YouTube Sans", "Roboto", sans-serif
 }
-    @media (min-width: 200px) and (max-width: 480px) {
-      body {
-        background-color: lightsalmon;
-      }
-    }
 
-    @media (min-width: 481px) and (max-width: 1200px) {
-      body {
-        background-color: powderblue;
-      }
-    }
-
-    @media (min-width: 1201px) and (max-width: 1600px) {
-      body {
-        background-color: limegreen;
-      }
-    }
-
-    @media (min-width: 1601px) {
-      body {
-        background-color: seagreen;
-      }
-    }
 /*Styling end*/
